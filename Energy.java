@@ -74,7 +74,4 @@ final class Energy {
 
     }
 
-
-
 }
-Checkstyle ends with 1 errors.
